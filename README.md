@@ -1,7 +1,7 @@
 # Hello there!
 
 ##### 🔭 Trabalho com freelas Front-End
-##### 🌱 Estudando Typescript
+##### 🌱 Estudando Tailwind e Angular
 
 <br/>
 
