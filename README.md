@@ -25,6 +25,6 @@
 
 <div> 
   <a href = "mailto:tyupoi49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/cleber-maciel-841562140"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/cleber-maciel-841562140" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href = "https://web.whatsapp.com/send?phone=5562984041554"><img height="30" src="https://cdn-icons-png.flaticon.com/128/1383/1383269.png" target="_blank"></a>
 </div> 
