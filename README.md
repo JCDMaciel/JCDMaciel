@@ -1,7 +1,7 @@
 # Hello there!
 
-##### 🔭 Trabalho com freelas Front-End
-##### 🌱 Estudando Tailwind e React
+##### 🔭 Freelancer front-end
+##### 🌱 Estudando React
 
 <br/>
 
