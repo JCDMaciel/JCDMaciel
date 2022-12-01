@@ -1,7 +1,7 @@
 # Hello there!
 
 ##### 🔭 Freelancer front-end
-##### 🌱 Estudando React
+##### 🌱 Estudando Angular
 
 <br/>
 
