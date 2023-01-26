@@ -1,6 +1,6 @@
 # Hello there!
 
-##### 🌱 Estudando Angular
+##### 🌱 Estudando Java
 
 <br/>
 
