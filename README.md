@@ -7,7 +7,7 @@
 <div align="left">
   <a href="https://github.com/JCDMaciel">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCDMaciel&layout=compact&langs_count=7&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCDMaciel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br/>
@@ -21,7 +21,6 @@
   <img align="center" alt="icone-Tail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="icone-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="icone-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
-  <img align="center" alt="icone-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
 </div>
 
 <br/>
