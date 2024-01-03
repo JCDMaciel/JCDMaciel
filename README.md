@@ -1,7 +1,5 @@
 # Hello there!
 
-##### 🌱 Estudando Angular
-
 <br/>
 
 <div align = "left">
